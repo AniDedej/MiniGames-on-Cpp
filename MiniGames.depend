@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1543061012 source:c:\users\antonio\desktop\jeu palindrome\minigames\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+	"Game.h"
+	"Anagramme.h"
+	"Palindrome.h"
+	"Menu.h"
+
+1543058059 c:\users\antonio\desktop\jeu palindrome\minigames\include\game.h
+	<string>
+	<vector>
+
+1543060816 source:c:\users\antonio\desktop\jeu palindrome\minigames\src\game.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"Game.h"
+
+1542962436 source:c:\users\antonio\desktop\jeu palindrome\minigames\src\minigame.cpp
+	"MiniGame.h"
+
+1542963113 c:\users\antonio\desktop\jeu palindrome\minigames\include\minigame.h
+	"Game.h"
+	<string>
+
+1543057725 source:c:\users\antonio\desktop\jeu palindrome\minigames\src\anagramme.cpp
+	<iostream>
+	<string>
+	<cctype>
+	"Anagramme.h"
+	"functions.h"
+
+1543057766 c:\users\antonio\desktop\jeu palindrome\minigames\include\anagramme.h
+	"Game.h"
+
+1543061070 source:c:\users\antonio\desktop\jeu palindrome\minigames\src\palindrome.cpp
+	<iostream>
+	<string>
+	"Palindrome.h"
+	"functions.h"
+
+1543056007 c:\users\antonio\desktop\jeu palindrome\minigames\include\palindrome.h
+	<Game.h>
+
+1543059744 c:\users\antonio\desktop\jeu palindrome\minigames\include\menu.h
+	<Game.h>
+
+1543059726 source:c:\users\antonio\desktop\jeu palindrome\minigames\src\menu.cpp
+	"Menu.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1543053919 c:\users\antonio\desktop\jeu palindrome\minigames\include\functions.h
+	<string>
+
+1543055272 source:c:\users\antonio\desktop\jeu palindrome\minigames\src\functions.cpp
+	<functions.h>
+	<string>
+	<cctype>
+	<algorithm>
+
